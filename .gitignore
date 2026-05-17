@@ -1,0 +1,12 @@
+*.mp4
+*.mov
+*.MOV
+*.MP4
+*.jpg
+*.JPG
+*.heic
+*.HEIC
+*.png
+*.txt
+sheets_csv/
+.playwright-mcp/
