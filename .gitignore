@@ -8,5 +8,15 @@
 *.HEIC
 *.png
 *.txt
+*.pdf
+*.docx
+*.html
 sheets_csv/
 .playwright-mcp/
+.claude/
+.DS_Store
+download.html
+claude_chat_context.txt
+monthly_*.png
+sheets_view.png
+trainer*.png
