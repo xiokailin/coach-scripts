@@ -186,7 +186,7 @@ def main():
         today = datetime.now()
         date_str = f"{today.month}/{today.day}"
 
-    # Find videos (always 2-hour window)
+    # Find videos (always 2-hour ctime window); --date only controls Drive folder name
     videos = find_new_videos(date_str=None)
     if not videos:
         # Check if any videos in Downloads are already in the log
