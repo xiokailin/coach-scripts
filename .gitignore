@@ -26,7 +26,7 @@ trainer*.png
 # 個人設定與學員資料（不共用）
 CLAUDE.md
 download_sheets.mjs
-README.md
+# README.md  # 改為追蹤
 commands/腳本.md
 line_notify.py
 line_webhook_server.py
