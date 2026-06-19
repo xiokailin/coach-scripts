@@ -26,8 +26,8 @@ trainer*.png
 # 個人設定與學員資料（不共用）
 CLAUDE.md
 download_sheets.mjs
-extract_student_summary.py
-update_student_memory.py
+# extract_student_summary.py  # 已清空學員資料，改為追蹤
+# update_student_memory.py    # 已清空學員摘要，改為追蹤
 LINE/
 __pycache__/
 _dltest.txt

@@ -12,8 +12,8 @@ from datetime import date, datetime
 # 設定
 # ──────────────────────────────────────────
 
-SHEET_ID = "1wqdXP0YwnnadeirI-s0ScEj6kBJ8gt-E"
-TARGET_TRAINER = "林誌楷"
+SHEET_ID = "YOUR_GOOGLE_SHEET_ID"   # 改成你的月營運報表 Sheet ID
+TARGET_TRAINER = "你的姓名"          # 改成你在 Sheet 中顯示的教練姓名
 
 # ──────────────────────────────────────────
 # 固定時數規則（行政/開會/內訓）
