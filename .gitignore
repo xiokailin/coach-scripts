@@ -11,6 +11,8 @@
 *.pdf
 *.docx
 *.html
+*.xlsx
+*.xml
 sheets_csv/
 .playwright-mcp/
 .claude/
@@ -20,3 +22,12 @@ claude_chat_context.txt
 monthly_*.png
 sheets_view.png
 trainer*.png
+
+# 個人設定與學員資料（不共用）
+CLAUDE.md
+download_sheets.mjs
+extract_student_summary.py
+update_student_memory.py
+LINE/
+__pycache__/
+_dltest.txt
