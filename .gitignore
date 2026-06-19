@@ -26,6 +26,13 @@ trainer*.png
 # 個人設定與學員資料（不共用）
 CLAUDE.md
 download_sheets.mjs
+README.md
+commands/腳本.md
+line_notify.py
+line_webhook_server.py
+line_webhook_logger.gs
+tunnel_keeper.sh
+line_config_template.json
 # extract_student_summary.py  # 已清空學員資料，改為追蹤
 # update_student_memory.py    # 已清空學員摘要，改為追蹤
 LINE/
